@@ -33,7 +33,7 @@ public class Quote implements Serializable {
     }
 
     public int getAuthor_id() {
-        return author_id;
+        return (int) author_id;
     }
 
     public void setAuthor_id(int author_id) {
