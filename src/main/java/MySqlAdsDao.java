@@ -62,4 +62,5 @@ public class MySqlAdsDao implements Ads {
         }
         return lastInsertedId;
     }
+//    ADDED FOR FINAL PUSH
 }
